@@ -1,7 +1,5 @@
 # caps-cloud
 
-PR: [https://github.com/peterjast/caps-cloud/pull/1](https://github.com/peterjast/caps-cloud/pull/1);
-
 ## In order to run the two applications, you will need to set up the following AWS services
 
 * SNS Topic: pickup which will receive all pickup requests from vendors
